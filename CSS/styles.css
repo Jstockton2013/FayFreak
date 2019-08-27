@@ -1,0 +1,39 @@
+
+/* Header */
+.profile_pic{
+border-radius: 100%;
+}
+
+.header1{
+  background-color: #293462;
+  text-align: center;
+  padding: 1%;
+  color: #fff;
+}
+h1{
+  padding: 2%;
+  }
+
+/* testimonial */
+
+#testimonials {
+  background-color: #00818a;
+  text-align: center;
+    }
+
+.testimonial-image{
+width: 15%;
+  border-radius: 20%;
+}
+
+.carousel-item{
+  padding: 7% 15%;
+}
+
+/* footer section */
+#footer{
+  background-color: #293462;
+  text-align: center;
+  padding: 3%;
+  color: #fff;
+}
